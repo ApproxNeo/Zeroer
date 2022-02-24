@@ -4,7 +4,7 @@ A new Flutter project.
 
 ### Plans
 - [x] List all volumes
-- [ ] Integrate w [DD](https://http://www.chrysocome.net/dd)
+- [ ] Integrate w [DD](http:/chrysocome.net/dd)
 - [ ] Automate multiple disk zeroing
 - [ ] other stuff...
 
