@@ -9,10 +9,10 @@ import 'models/winver.dart';
 import 'volumepanel.dart';
 
 void main() {
-  runApp(ExplorerApp());
+  runApp(ZeroerApp());
 }
 
-class ExplorerApp extends StatelessWidget {
+class ZeroerApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
